@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificacionesSegurosSura.Persistencia\\NotificacionesSegurosSura.Persistencia.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificacionesSegurosSura.Persistencia\\NotificacionesSegurosSura.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificacionesSegurosSura.Persistencia\\NotificacionesSegurosSura.Persistencia.csproj",
+        "projectName": "NotificacionesSegurosSura.Persistencia",
+        "projectPath": "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificacionesSegurosSura.Persistencia\\NotificacionesSegurosSura.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\djdel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificacionesSegurosSura.Persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\djdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/surachile/ca44fede-c71a-4ca2-8d71-c7c043e3df93/_packaging/seguros-sura-privado/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificacionesSegurosSura.Services\\NotificacionesSegurosSura.Services.csproj": {
+                "projectPath": "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificacionesSegurosSura.Services\\NotificacionesSegurosSura.Services.csproj"
+              },
+              "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificationSegurosSura.Domain\\NotificacionesSegurosSura.Domain.csproj": {
+                "projectPath": "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificationSegurosSura.Domain\\NotificacionesSegurosSura.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificacionesSegurosSura.Services\\NotificacionesSegurosSura.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificacionesSegurosSura.Services\\NotificacionesSegurosSura.Services.csproj",
+        "projectName": "NotificacionesSegurosSura.Services",
+        "projectPath": "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificacionesSegurosSura.Services\\NotificacionesSegurosSura.Services.csproj",
+        "packagesPath": "C:\\Users\\djdel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificacionesSegurosSura.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\djdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/surachile/ca44fede-c71a-4ca2-8d71-c7c043e3df93/_packaging/seguros-sura-privado/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificationSegurosSura.Domain\\NotificacionesSegurosSura.Domain.csproj": {
+                "projectPath": "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificationSegurosSura.Domain\\NotificacionesSegurosSura.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Azure.NotificationHubs": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificationSegurosSura.Domain\\NotificacionesSegurosSura.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificationSegurosSura.Domain\\NotificacionesSegurosSura.Domain.csproj",
+        "projectName": "NotificacionesSegurosSura.Domain",
+        "projectPath": "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificationSegurosSura.Domain\\NotificacionesSegurosSura.Domain.csproj",
+        "packagesPath": "C:\\Users\\djdel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificationSegurosSura.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\djdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/surachile/ca44fede-c71a-4ca2-8d71-c7c043e3df93/_packaging/seguros-sura-privado/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificacionesSegurosSura.Services\bin\Debug\netcoreapp3.1\NotificacionesSegurosSura.Services.deps.json
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificacionesSegurosSura.Services\bin\Debug\netcoreapp3.1\NotificacionesSegurosSura.Services.dll
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificacionesSegurosSura.Services\bin\Debug\netcoreapp3.1\NotificacionesSegurosSura.Services.pdb
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificacionesSegurosSura.Services\bin\Debug\netcoreapp3.1\NotificacionesSegurosSura.Domain.dll
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificacionesSegurosSura.Services\bin\Debug\netcoreapp3.1\NotificacionesSegurosSura.Domain.pdb
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificacionesSegurosSura.Services\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Services.csproj.AssemblyReference.cache
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificacionesSegurosSura.Services\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificacionesSegurosSura.Services\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Services.AssemblyInfoInputs.cache
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificacionesSegurosSura.Services\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Services.AssemblyInfo.cs
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificacionesSegurosSura.Services\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Services.csproj.CoreCompileInputs.cache
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificacionesSegurosSura.Services\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Services.csproj.CopyComplete
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificacionesSegurosSura.Services\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Services.dll
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificacionesSegurosSura.Services\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Services.pdb

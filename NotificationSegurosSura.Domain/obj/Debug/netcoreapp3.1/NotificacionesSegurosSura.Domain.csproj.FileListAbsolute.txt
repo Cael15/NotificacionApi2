@@ -1,0 +1,10 @@
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificationSegurosSura.Domain\bin\Debug\netcoreapp3.1\NotificacionesSegurosSura.Domain.deps.json
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificationSegurosSura.Domain\bin\Debug\netcoreapp3.1\NotificacionesSegurosSura.Domain.dll
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificationSegurosSura.Domain\bin\Debug\netcoreapp3.1\NotificacionesSegurosSura.Domain.pdb
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificationSegurosSura.Domain\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Domain.csproj.AssemblyReference.cache
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificationSegurosSura.Domain\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificationSegurosSura.Domain\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Domain.AssemblyInfoInputs.cache
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificationSegurosSura.Domain\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Domain.AssemblyInfo.cs
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificationSegurosSura.Domain\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Domain.csproj.CoreCompileInputs.cache
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificationSegurosSura.Domain\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Domain.dll
+C:\Users\djdel\OneDrive\Desktop\Training\NotificationSuraSeguros\NotificationSegurosSura.Domain\obj\Debug\netcoreapp3.1\NotificacionesSegurosSura.Domain.pdb

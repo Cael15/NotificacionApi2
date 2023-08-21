@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "QEZi2EmSuBc1LAlnlerr7SrQ8x2HhQ6//xB+zzHbvtVRKOaieYVQGTu3YYa/jwt48YlCISWDyASbTdwChUDnFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\djdel\\OneDrive\\Desktop\\Training\\NotificationSuraSeguros\\NotificacionesSegurosSura.Services\\NotificacionesSegurosSura.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djdel\\.nuget\\packages\\microsoft.azure.notificationhubs\\4.1.0\\microsoft.azure.notificationhubs.4.1.0.nupkg.sha512",
+    "C:\\Users\\djdel\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.8\\microsoft.extensions.caching.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\djdel\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.8\\microsoft.extensions.caching.memory.3.1.8.nupkg.sha512",
+    "C:\\Users\\djdel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\djdel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\djdel\\.nuget\\packages\\microsoft.extensions.options\\3.1.8\\microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "C:\\Users\\djdel\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\djdel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
